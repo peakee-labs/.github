@@ -1,3 +1,3 @@
-Zenonian lab
+# Zenonian lab
 
-Founded by @thomas_le
+Founded by [@tanlethanh](gihub.com/tanlethanh)
