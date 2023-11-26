@@ -1,3 +1,3 @@
 # Zenonian lab
 
-Founded by [@tanlethanh](gihub.com/tanlethanh)
+Founded by [@tanlethanh](https://github.com/tanlethanh)
