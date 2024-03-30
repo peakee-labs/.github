@@ -1,5 +1,5 @@
 # Zenonian labs
 
-### We build anything to explore the world
+Young, innovative engineering labs, we build and rebuild things
 
 Founded by [@tanlethanh](https://github.com/tanlethanh)
