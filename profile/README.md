@@ -1,6 +1,6 @@
 # Peakee Labs
 
-People need to learn language by actually using it (not the lession), and Peakee makes the `use language` process become easiest
+People need to learn language by actually using it (not the lesson), and Peakee makes the `use language` process become easiest
 
 ### We released
 
