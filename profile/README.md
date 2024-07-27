@@ -5,3 +5,6 @@ People need to learn language by actually using it (not the lesson), and Peakee 
 ### We released
 
 - [Peakee Tools](https://chromewebstore.google.com/detail/peakee/hmmkoppbjhfcjndlhkcipbggommjcfeg) supports translate/explain in browser (Chrome Extension)
+
+
+[Discord](https://discord.gg/vtqcGybX3V)
